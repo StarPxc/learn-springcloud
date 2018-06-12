@@ -3,7 +3,7 @@
 
 一张图说明一切
 
-![1528812290068](C:\Users\PXC\AppData\Local\Temp\1528812290068.png)
+![1528813822566](C:\Users\PXC\AppData\Local\Temp\1528813822566.png)
 
 此模块是eureka的 Eureka Client端也是服务提供者
 
