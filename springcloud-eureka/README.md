@@ -4,7 +4,7 @@
 
 一张图说明一切
 
-![1528813831726](C:\Users\PXC\AppData\Local\Temp\1528813831726.png)
+![1528813831726](https://github.com/StarPxc/learn-springcloud/blob/master/img/p1.png)
 
 此模块是eureka的 Eureka Service端也就是所谓的注册中心，为了防止服务端的单点故障，做个注册中心的集群，新增一个注册中心分别把对方作为服务进行注册
 

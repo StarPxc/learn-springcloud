@@ -3,7 +3,7 @@
 
 一张图说明一切
 
-![1528813822566](C:\Users\PXC\AppData\Local\Temp\1528813822566.png)
+![服务注册](https://github.com/StarPxc/learn-springcloud/blob/master/img/p1.png)
 
 此模块是eureka的 Eureka Client端也是服务提供者
 
